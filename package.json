@@ -1,0 +1,24 @@
+{
+  "name": "adv-backend-basic-express-project",
+  "version": "1.0.0",
+  "description": "In the previous activity, you created your first Node server and confirmed that it runs successfully in the browser.",
+  "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julia04-rub/adv-backend-basic-express-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Julia04-rub/adv-backend-basic-express-project/issues"
+  },
+  "homepage": "https://github.com/Julia04-rub/adv-backend-basic-express-project#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
