@@ -17,7 +17,7 @@ app.use((req, res, next) => {
 
 // Root route (GET request)
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('Welcome to my Express server!');
 });
 
 // Sample API route returning JSON data
